@@ -1,0 +1,6 @@
+Unit 6 Task 5 Run Data
+Time for run 1: 0.001897
+Time for run 2: 0.001167
+Time for run 3: 0.001115
+Average Time for Sort Built-in DESC
+0.004179
